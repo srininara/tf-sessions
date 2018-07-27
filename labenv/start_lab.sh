@@ -1,0 +1,1 @@
+docker run --rm --name=tf_aws_lab --entrypoint bash -v `pwd`:/labenv -it nacnez/tf_aws:latest
